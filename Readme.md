@@ -27,3 +27,10 @@ If you still want to try it, follow these steps:
 Disabling **SIP (System Integrity Protection)** and **AMFI (Apple Mobile File Integrity)** makes your Mac **vulnerable to malware and unauthorized system modifications**. Only do this if you understand the risks and have a reason to test private APIs.
 
 Use **at your own risk**—this is for educational purposes only.
+
+## Installation
+
+Copy SafariPark.app to /Library/Input Methods.
+Run it from there.
+If it doesn’t work immediately, log out and log back in.
+If the app starts successfully, you should see a status bar item confirming it's running.
